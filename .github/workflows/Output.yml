@@ -1,5 +1,5 @@
 name: Output
-on: [issues,push]
+on: [issues]
 jobs:
     issue:
         runs-on: ubuntu-latest
